@@ -1,0 +1,14 @@
+C:\Users\Sebastian Cuello\Desktop\projects\ejercicioBasket\bin\Debug\net7.0\ejercicioBasket.exe
+C:\Users\Sebastian Cuello\Desktop\projects\ejercicioBasket\bin\Debug\net7.0\ejercicioBasket.deps.json
+C:\Users\Sebastian Cuello\Desktop\projects\ejercicioBasket\bin\Debug\net7.0\ejercicioBasket.runtimeconfig.json
+C:\Users\Sebastian Cuello\Desktop\projects\ejercicioBasket\bin\Debug\net7.0\ejercicioBasket.dll
+C:\Users\Sebastian Cuello\Desktop\projects\ejercicioBasket\bin\Debug\net7.0\ejercicioBasket.pdb
+C:\Users\Sebastian Cuello\Desktop\projects\ejercicioBasket\obj\Debug\net7.0\ejercicioBasket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sebastian Cuello\Desktop\projects\ejercicioBasket\obj\Debug\net7.0\ejercicioBasket.AssemblyInfoInputs.cache
+C:\Users\Sebastian Cuello\Desktop\projects\ejercicioBasket\obj\Debug\net7.0\ejercicioBasket.AssemblyInfo.cs
+C:\Users\Sebastian Cuello\Desktop\projects\ejercicioBasket\obj\Debug\net7.0\ejercicioBasket.csproj.CoreCompileInputs.cache
+C:\Users\Sebastian Cuello\Desktop\projects\ejercicioBasket\obj\Debug\net7.0\ejercicioBasket.dll
+C:\Users\Sebastian Cuello\Desktop\projects\ejercicioBasket\obj\Debug\net7.0\refint\ejercicioBasket.dll
+C:\Users\Sebastian Cuello\Desktop\projects\ejercicioBasket\obj\Debug\net7.0\ejercicioBasket.pdb
+C:\Users\Sebastian Cuello\Desktop\projects\ejercicioBasket\obj\Debug\net7.0\ejercicioBasket.genruntimeconfig.cache
+C:\Users\Sebastian Cuello\Desktop\projects\ejercicioBasket\obj\Debug\net7.0\ref\ejercicioBasket.dll
